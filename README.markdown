@@ -1,5 +1,5 @@
 #Basic Physics in Javascript, HTML5 & Canvas
-Arrow keys to move left and right
+Arrow keys to move left and right, spacebar to start / pause.
 
 
 Fairly straight forwards, but the math is starting to get above my head.  I think there are a few Khan Academy courses in my future!
